@@ -3829,6 +3829,7 @@ PHP:
   - ".php5"
   - ".phps"
   - ".phpt"
+  - ".gne"
   filenames:
   - ".php"
   - ".php_cs"
